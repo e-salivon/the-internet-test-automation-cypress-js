@@ -1,4 +1,4 @@
-import { NavigationPage, navigateTo } from "../../support/page_objects/navigationPages";
+import { navigateTo } from "../../support/page_objects/navigationPages";
 
 describe("Check checkboxes logic", () =>{
     let checkBox1;

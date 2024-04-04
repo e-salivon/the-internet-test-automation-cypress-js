@@ -31,10 +31,10 @@ describe("Scenarios to check table functionality", () =>{
     });
 
     // it("Verify Delete functionality", () =>{
-
+        //similar to edit button, but with different assertion
     // });
 
-    // it("Veify sorting functionality", () =>{
+    // it("Veify аscending sorting by the Last Name", () =>{
 
     // })
 })
